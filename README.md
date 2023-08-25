@@ -1,6 +1,8 @@
 # Convolutional Neural Networks for Image Classification
 
-![ASL](./cnn.png)
+<div style="text-align:center">
+    <img src="./cnn.png" width="180" />
+</div>
 
 ## Overview
 This repository contains code and resources for implementing Convolutional Neural Networks (CNNs) to classify images of American Sign Language (ASL) letters. The goal is to build and train a CNN model that can accurately recognize ASL letters from images.
